@@ -12,9 +12,9 @@ pipeline {
 			}
 		}
 		}
-		stage('Deploy to prod"{
+		stage('Deploy to prod"){
 		steps {
-			build job:'DemoDeployPip'
+			build job: 'DemoDeployPip'
 		}
 		}
 	}
