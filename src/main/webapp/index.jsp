@@ -249,7 +249,7 @@
 </body>
 
 <footer>
-  <p>Developed by : Prakarsh </p><br>
+  <p>Developer : Prakarsh </p><br>
 </footer>
 
 </html>
