@@ -246,7 +246,10 @@
         duration:1000
       });
     </script>
-
 </body>
+
+<footer>
+  <p>Developer : Prakarsh <br>For Practice</p>
+</footer>
 
 </html>
